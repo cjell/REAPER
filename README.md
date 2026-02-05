@@ -10,6 +10,14 @@ This project is **experimental** and intended as a proof-of-concept rather than 
 
 ---
 
+## Demo
+
+
+
+https://github.com/user-attachments/assets/2906a24b-ff16-4e3c-81f1-f5be1ac3bcd1
+
+
+
 ##  Project Status
 
 **Prototype / Research / Demo**
@@ -34,7 +42,7 @@ This project is **experimental** and intended as a proof-of-concept rather than 
 
 ---
 
-## 🎼 How This Helps Musicians & Producers
+##  How This Helps Musicians & Producers
 
 This prototype explores how LLMs can assist **musical workflows**, not just automate them.
 
