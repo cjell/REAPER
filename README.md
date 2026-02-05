@@ -92,5 +92,6 @@ This creates a foundation for future extensions involving:
 set the tempo to 140 bpm
 add a basic beat on track 1
 what kick samples do I have?
-insert a new track
-remove track 2
+insert a new track.
+what is a chord?
+how does reaper work?
